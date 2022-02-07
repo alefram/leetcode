@@ -1,2 +1,5 @@
 # algorithms
-study of algorithms and data structures
+This repository includes some exercises of algorithms and data structures in python 
+
+## Resources
+
