@@ -3,3 +3,6 @@ This repository includes some exercises of algorithms and data structures in pyt
 
 ## Resources
 
+* Grokking Algorithms by Aditya Bhargava
+
+
