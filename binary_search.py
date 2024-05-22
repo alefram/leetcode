@@ -25,3 +25,4 @@ x,step = binary_search(my_list,10)
 print("position in the array:",x)
 print("steps:",step)
 
+
