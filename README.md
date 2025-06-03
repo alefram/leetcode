@@ -1,6 +1,7 @@
 # Leetcode
 
-This project is about my exercises of algorithms and data structures.
+This project is about my exercises of algorithms/data structures and practicing
+my programming languages skills. 
 
 ## Getting started
 
@@ -19,6 +20,7 @@ python3 script.py
 * Grokking Algorithms by Aditya Bhargava
 * Cracking the coding interview
 * leetcode website
+* Fluent Python
 
 ## License
 
